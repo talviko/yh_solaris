@@ -1,7 +1,5 @@
 # Solaris
 
-Av Mattias Rensmo
-
 Webbsidan: https://mattiasrensmo.github.io/yh_solaris/
 
 Skuggan på planeterna är utöver vad som stod i Figma.
